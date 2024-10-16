@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-DeepAware is a cutting-edge platform designed to enhance awareness and training on phishing attacks by leveraging advanced deepfake technology. The platform simulates highly realistic phishing scenarios, including deceptive emails, audio recordings, and videos, to expose users to sophisticated cyber threats. Through interactive simulations, DeepAware empowers individuals and organizations to recognize and mitigate risks posed by deepfake-driven phishing attempts, reinforcing cybersecurity defenses.
+**DeepAware** is a cutting-edge platform designed to enhance awareness and training on phishing attacks by leveraging advanced deepfake technology. The platform simulates highly realistic phishing scenarios, including deceptive emails, audio recordings, and videos, to expose users to sophisticated cyber threats. Through interactive simulations, DeepAware empowers individuals and organizations to recognize and mitigate risks posed by deepfake-driven phishing attempts, reinforcing cybersecurity defenses.
 
 ## Key Features
 
