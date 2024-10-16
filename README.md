@@ -11,7 +11,7 @@
 - **Customizable Training Modules**: Adapts phishing scenarios based on industry-specific threats, allowing organizations to tailor simulations to their unique security needs.
 - **Performance Analytics and Feedback**: Tracks user responses to phishing attempts and offers detailed feedback to improve detection skills and response strategies.
 
-## Technologies Utilized
+## Technologies
 
 - **Generative AI**: Powers the creation of realistic phishing scenarios through sophisticated deepfake methods.
 - **DeepFake Techniques**: Utilizes state-of-the-art tools for generating convincing audio and video content to simulate cyber threats.
